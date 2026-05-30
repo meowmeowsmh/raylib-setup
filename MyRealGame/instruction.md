@@ -7,6 +7,8 @@ D:\MyRealGame\main.cpp
 D:\Raylib-CPP-Starter-Template-for-VSCODE-V2-main\src\main.cpp //I arl created so... 
 
 this help your to build your raylib application you can modify or anything is free:
+
 g++ main.cpp -o game.exe -I"C:/raylib/w64devkit/include" -L"C:/raylib/w64devkit/lib" -lraylib -lgdi32 -lwinmm -static
+.\game.exe
 
 rmb to download the raylib from the official app before using it thank you 
